@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hostcdd/blog/issues"
   },
-  "homepage": "https://github.com/hostcdd/blog#readme"
+  "homepage": "https://github.com/hostcdd/blog#readme",
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
 }
